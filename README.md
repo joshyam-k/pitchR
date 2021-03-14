@@ -20,7 +20,7 @@ The development version of `pitchR` is available from
 
 ``` r
 # install.packages("devtools")
-# devtools::install_github("Reed-Math241/pkgGrpq")
+# devtools::install_github("joshyam-k/pitchR")
 ```
 
 ## About the Data
